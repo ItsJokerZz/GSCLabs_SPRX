@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="hde64.h" />
+    <ClInclude Include="table64.h" />
+    <ClInclude Include="utilities.h" />
+    <ClInclude Include="detour.h" />
+    <ClInclude Include="math.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="hde64.cpp" />
+    <ClCompile Include="utilities.cpp" />
+    <ClCompile Include="detour.cpp" />
+    <ClCompile Include="math.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="disasm">
+      <UniqueIdentifier>{27842a13-0dca-4aaa-8e00-6555e866d91a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

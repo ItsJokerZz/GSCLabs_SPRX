@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "iw6_gsc", "iw6_gsc\iw6_gsc.vcxproj", "{DA60E18F-6AE1-463C-89A3-04C23687546D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ORBIS = Debug|ORBIS
+		Release|ORBIS = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA60E18F-6AE1-463C-89A3-04C23687546D}.Debug|ORBIS.ActiveCfg = Debug|ORBIS
+		{DA60E18F-6AE1-463C-89A3-04C23687546D}.Debug|ORBIS.Build.0 = Debug|ORBIS
+		{DA60E18F-6AE1-463C-89A3-04C23687546D}.Release|ORBIS.ActiveCfg = Release|ORBIS
+		{DA60E18F-6AE1-463C-89A3-04C23687546D}.Release|ORBIS.Build.0 = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF44EDD8-535E-4E75-B507-8D71D597EA7D}
+	EndGlobalSection
+EndGlobal
